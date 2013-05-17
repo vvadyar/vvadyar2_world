@@ -1,4 +1,5 @@
 class Article < ActiveRecord::Base
+
 	#Relationship
 	belongs_to :category
 
